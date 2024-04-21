@@ -1,5 +1,3 @@
-## UID: 605971914
-
 ## Pipe Up
 
 Program that mimics shell pipe (|). 
